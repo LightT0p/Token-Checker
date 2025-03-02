@@ -3,5 +3,5 @@
 ## Features:
 * Saves tokens
 * Requests based
-* Multo-Threaded
+* Multi-Threaded
 * Rechecks valid token at each start
